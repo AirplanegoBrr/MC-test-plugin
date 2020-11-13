@@ -1,0 +1,7 @@
+main: io.glitch.airplanegobrr.testplugin.Main
+name: GameOverMC
+version: 1.0.0
+author: Overbigboy123
+
+commands:
+  test:
